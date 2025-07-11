@@ -1,0 +1,30 @@
+[submodule "CarrelloProject"]
+	path = CarrelloProject
+	url = https://github.com/J1nnettus/CarrelloProject.git
+[submodule "Esercizio1"]
+	path = Esercizio1
+	url = https://github.com/J1nnettus/Esercizio1.git
+[submodule "Esercizio2"]
+	path = Esercizio2
+	url = https://github.com/J1nnettus/Esercizio2.git
+[submodule "Esercizio3"]
+	path = Esercizio3
+	url = https://github.com/J1nnettus/Esercizio3.git
+[submodule "GestionePosta"]
+	path = GestionePosta
+	url = https://github.com/J1nnettus/GestionePosta.git
+[submodule "GestioneUtenti"]
+	path = GestioneUtenti
+	url = https://github.com/J1nnettus/GestioneUtenti.git
+[submodule "Programmazione 1"]
+	path = Programmazione 1
+	url = https://github.com/J1nnettus/Programmazione-1.git
+[submodule "Stackprova"]
+	path = Stackprova
+	url = https://github.com/J1nnettus/Stackprova.git
+[submodule "esercizio2006"]
+	path = esercizio2006
+	url = https://github.com/J1nnettus/esercizio2006.git
+[submodule "esercizioeccezioni"]
+	path = esercizioeccezioni
+	url = https://github.com/J1nnettus/esercizioeccezioni.git
